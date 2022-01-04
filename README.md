@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://github.com/fadluu/goks.github.io/issues/2#issue-1093289206
-
+![25e6f4fa059fde2a2f53f61c418304d8](https://user-images.githubusercontent.com/96899293/148056516-b1772b02-e166-48bd-a6fe-f74d3cd82914.jpg)
 You can use the [editor on GitHub](https://github.com/fadluu/goks.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
